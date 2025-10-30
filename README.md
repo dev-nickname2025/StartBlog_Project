@@ -43,7 +43,7 @@ A simple blog web application built with **Django**  where users can
 
 ## 📂 Project Structure
 blog_project/
-│
+|
 ├── blog/
 │ ├── migrations/
 │ ├── templates/blog/
@@ -63,13 +63,7 @@ blog_project/
 │ └── wsgi.py
 │
 ├── media/
-│
-├─
-│
-│
-│
-│
-│
+|
 ├── manage.py
 └── requirements.txt
 
